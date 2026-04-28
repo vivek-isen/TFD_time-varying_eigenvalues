@@ -7,7 +7,22 @@ $$\frac{|\lambda_1| + |\lambda_2|}{2} \approx \frac{AK}{2}~~~\implies~~~A \appro
 
 $$X_l[i,\zeta] = \left(A_l^{(i)}\right)^2\delta[\zeta - \zeta_l],\forall~\text{MNF}_l^{(i)} - \frac{\text{BW}_l^{(i)}}{2} \leq \zeta_l \leq \text{MNF}_l^{(i)} + \frac{\text{BW}_l^{(i)}}{2}$$
 
-The TFD of all the significant components are added together to get the TFD of the signal. For deeper insight please read [1].
+The TFD of all the significant components are added together to get the TFD of the signal. For deeper insight please read [1]. The TFD comparison of the proposed method with baseline methods for two real-life signals, a bat signal and a cello G5 note signal, are presented in the figures below.
+<table>
+  <tr>
+    <td align="center">
+      <img src="bat_sig_TFD.png" width="500"><br>
+    </td>
+    <td align="center">
+      <img src="cello_G5_note_TFD.png" width="500"><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <em>Figure: The TFDs of the bat signal (left side) and cello G5 note (right side) signal obtained using (a)–(d) baseline methods and (e)-(f) proposed method with two distinct eigenvalue threshold computation approaches.</em> (Figures are taken from [1])
+    </td>
+  </tr>
+</table>
 
 # References
 [1]. V.K. Singh and R.B. Pachori, "Eigenvalues-based time-frequency analysis," _Journal of the Franklin Institute_, vol. 363, no. 7, p. 108561, 2026.
