@@ -19,7 +19,7 @@ The TFD of all the significant components are added together to get the TFD of t
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <em>Figure: The TFDs of the bat signal (left side) and cello G5 note (right side) signal obtained using (a)–(d) baseline methods and (e)-(f) proposed method with two distinct eigenvalue threshold computation approaches.</em> (Figures are taken from [1])
+      <em>Figure: The TFDs of the bat signal (left side) and cello G5 note signal (right side) obtained using (a)–(d) baseline methods and (e)-(f) proposed method with two distinct eigenvalue threshold computation approaches.</em> (Figures are taken from [1])
     </td>
   </tr>
 </table>
